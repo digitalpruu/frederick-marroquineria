@@ -66,8 +66,14 @@
         padding-bottom: 8%;
         padding-top: 8%;
     }
+    .about-image-container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
     .about-title{
         font-size: 3em;
+        padding-top: 0 !important;
     }
     .about-text{
         margin-right: 50px;
